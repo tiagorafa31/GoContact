@@ -1,9 +1,10 @@
 # GoContact
 
-1 - abrir o projeto
-2 - modificar a localização do chromedriver em todos os testes
-3 - garantir que as libraries do projeto contem o Maven + JUnit 4 + JDK
-4 - para correr os testes corra a classe TestSUite através do Junit
+1 - abrir o projeto.
+
+2 - modificar a localização do chromedriver em todos os testes.
+3 - garantir que as libraries do projeto contem o Maven + JUnit 4 + JDK.
+4 - para correr os testes corra a classe TestSUite através do Junit.
 
 
 
